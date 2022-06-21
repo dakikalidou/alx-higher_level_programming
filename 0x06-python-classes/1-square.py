@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 class Square :
-    0-square.py (self, size) :
-        self.size = no type
+    pass
+
+def __init__(self, size):
+        self.size = 0
